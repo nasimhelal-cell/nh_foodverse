@@ -15,7 +15,7 @@ const Navbar = ({
   };
 
   return (
-    <div className="navbar flex justify-between items-center container flex-col py-6 lg:flex-row gap-5 lg:gap-0">
+    <div className="navbar flex justify-between items-center container mx-auto flex-col py-6 lg:flex-row gap-5 lg:gap-0">
       <h2 className="logo text-2xl italic lowercase font-bold ">
         Food<span className="text-rose-500 ">verse</span>
       </h2>
